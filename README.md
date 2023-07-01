@@ -7,7 +7,7 @@ This repository contains school activities that I decided to share with other pe
 </div>
 
 <ul>
-  <li>✔️ 1st period</li>
+  <li>✔️ <a href="1st period">1st period</a></li>
   <li>🕝 2st period</li>
   <li>❌ 3st period</li>
   <li>❌ 4st period</li>
