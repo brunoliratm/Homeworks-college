@@ -7,12 +7,17 @@ This repository contains school activities that I decided to share with other pe
 </div>
 
 <ul>
-  <li>1st period</li>
-  <li>2st period</li>
-  <li>3st period</li>
-  <li>4st period</li>
-  <li>5st period</li>
-  <li>6st period</li>
-  <li>7st period</li>
-  <li>8st period</li>
+  <li>✔️ 1st period</li>
+  <li>🕝 2st period</li>
+  <li>❌ 3st period</li>
+  <li>❌ 4st period</li>
+  <li>❌ 5st period</li>
+  <li>❌ 6st period</li>
+  <li>❌ 7st period</li>
+  <li>❌ 8st period</li>
 </ul>
+
+<h6>Legend</h6>
+✔️ Concluded
+🕝 In progress
+❌ I'm still going to start
