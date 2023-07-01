@@ -18,6 +18,6 @@ This repository contains school activities that I decided to share with other pe
 </ul>
 
 <h6>Legend</h6>
-✔️ Concluded
-🕝 In progress
+✔️ Concluded</br>
+🕝 In progress</br>
 ❌ I'm still going to start
