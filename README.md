@@ -8,8 +8,8 @@ This repository contains school activities that I decided to share with other pe
 
 <ul>
   <li>✔️ <a href="1st period">1st period</a></li>
-  <li>🕝 <a href="2st period">2st period</a></li>
-  <li>❌ 3st period</li>
+  <li>✔️ <a href="2st period">2st period</a></li>
+  <li>🕝 3st period</li>
   <li>❌ 4st period</li>
   <li>❌ 5st period</li>
   <li>❌ 6st period</li>
