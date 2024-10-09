@@ -22,10 +22,10 @@ Here’s the current structure:
 
 ### 🕵️‍♂️ Organized by College Period:
 <ul>
-  <li>✔️ <a href="1st period">1st Period</a></li>
-  <li>✔️ <a href="2nd period">2nd Period</a></li>
-  <li>️️✔️ <a href="3nd period">3rd Period</a>3</li>
-  <li>🕝 4th Period (In Progress)</li>
+  <li>✔️ <a href="1st period">1th Period</a></li>
+  <li>✔️ <a href="2nd period">2th Period</a></li>
+  <li>️️✔️ <a href="3nd period">3th Period</a></li>
+  <li>🕝 <a href="4nd period">4th Period</a> (In Progress)</li>
   <li>❌ 5th Period (Not Started)</li>
   <li>❌ 6th Period (Not Started)</li>
   <li>❌ 7th Period (Not Started)</li>
