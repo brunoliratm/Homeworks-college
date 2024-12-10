@@ -35,10 +35,10 @@ Here’s the current structure:
 Each folder includes:
 - **Problem Statements** – Descriptions of the assignments.
 - **Source Code** – The solution for each problem, written in languages like Python, Java, C, etc.
+
 ---
 
-<details>
-<summary>📚 Full Curriculum</summary>
+## 📚 Full Curriculum
 
 | Per. | Código   | Disciplina                                                | C.H. | Créd. | Pré-Req.                |
 |------|----------|-----------------------------------------------------------|------|-------|-------------------------|
@@ -90,12 +90,12 @@ Each folder includes:
 | 7    | DSI180707 | DIREITO E LEGISLAÇÃO EM INFORMÁTICA                       | 36   | 2     |                         |
 | 8    | DSI180801 | TRABALHO DE CONCLUSÃO DE CURSO II                         | 72   | 4     | DSI180705               |
 | 8    | DSI180802 | ELETIVA IV                                                | 72   | 4     |                         |
-| 8    | DSI180803 | SISTEMAS DISTRIBUÍdos                                     | 72   | 4     | DSI180604               |
+| 8    | DSI180803 | SISTEMAS DISTRIBUÍDOS                                     | 72   | 4     | DSI180604               |
 | 8    | DSI180804 | ESTÁGIO SUPERVISIONADO II                                 | 180  | 6     |                         |
 | 8    | DSI180805 | PROJETO DE DESENVOLVIMENTO DE FÁBRICA DE SOFTWARE II      | 72   | 4     | DSI180706               |
 | 8    | DSI180806 | GESTÃO DO CONHECIMENTO DE PESSOAS                         | 72   | 4     | DSI180104               |
 
-</details>
+---
 
 ## 🛠️ Technologies Used
 
