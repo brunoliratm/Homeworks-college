@@ -26,3 +26,20 @@ the list into elements smaller and larger than the pivot, and then sorts the sub
    <h1><a href=https://githubcom/brunoliratm/Ludus-GameStore>4️⃣Health Pharmacys</a></h1>
    <h4>This project aims to provide a comprehensive solution for managing health-related information and pharmacy services. Whether you are a healthcare professional or a pharmacy owner</h4>
 </div>
+
+---
+
+## 🛠️ Technologies Used
+
+- **Languages**: Java
+
+---
+
+## 💡 How to Use This Folder
+
+1. **Explore the Assignments**  
+   Browse through the files in this folder to find the assignments and exercises for the 3rd period.
+2. **Run the Code**  
+   Follow the instructions in each file to run the code and see the results.
+
+---

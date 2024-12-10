@@ -25,3 +25,20 @@
    <h1><a href="matrizNegativa.py">4️⃣ Matriz Negativa</a></h1>
    <h5>The purpose of this activity was to create an algorithm in "Python" to ask the user for the dimensions of an array (number of rows and columns) and then allow the user to enter the elements of the array. The code then displays any negative values present in the array.</h5>
 </div>
+
+---
+
+## 🛠️ Technologies Used
+
+- **Languages**: Portugol, Python
+
+---
+
+## 💡 How to Use This Folder
+
+1. **Explore the Assignments**  
+   Browse through the files in this folder to find the assignments and exercises for the 1st period.
+2. **Run the Code**  
+   Follow the instructions in each file to run the code and see the results.
+
+---
