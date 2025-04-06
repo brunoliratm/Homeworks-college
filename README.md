@@ -4,6 +4,16 @@ Welcome to the **Schoolwork** repository! 🎉 This collection includes various 
 
 I will continually update this repository as I progress through my coursework, so be sure to check back for new additions. If you find something useful, feel free to share it or suggest improvements! 😄
 
+## 📋 Table of Contents
+- [Why This Repository?](#-why-this-repository)
+- [Structure of the Repository](#-structure-of-the-repository)
+- [Full Curriculum](#-full-curriculum)
+- [Technologies Used](#️-technologies-used)
+- [How to Use This Repository](#-how-to-use-this-repository)
+- [Future Plans](#-future-plans)
+- [Contributing](#-contributing)
+- [License](#-license)
+
 ---
 
 ## 🚀 Why This Repository?
@@ -18,15 +28,15 @@ If you are just starting your programming journey, this can be a good place to f
 
 The schoolwork is organized by **college period**, making it easy to navigate and find activities relevant to a specific point in your studies. Each folder contains projects, exercises, and assignments categorized by subject.
 
-Here’s the current structure:
+Here's the current structure:
 
 ### 🕵️‍♂️ Organized by College Period:
 <ul>
-  <li>✔️ <a href="1st period">1th Period</a></li>
-  <li>✔️ <a href="2st period">2th Period</a></li>
-  <li>️️✔️ <a href="3st period">3th Period</a></li>
-  <li>️️✔️ <a href="4st period">4th Period</a></li>
-  <li>🕝 <a href="5st period">5th Period</a> (In Progress)</li>
+  <li>✔️ <a href="1st period">1st Period</a> - Foundations of programming and logic</li>
+  <li>✔️ <a href="2st period">2nd Period</a> - Basic programming concepts and data structures</li>
+  <li>️️✔️ <a href="3st period">3rd Period</a> - Object-oriented programming and database fundamentals</li>
+  <li>️️✔️ <a href="4st period">4th Period</a> - Advanced programming and software engineering</li>
+  <li>🕝 <a href="5st period">5th Period</a> - Systems development and AI (In Progress)</li>
   <li>❌ 6th Period (Not Started)</li>
   <li>❌ 7th Period (Not Started)</li>
   <li>❌ 8th Period (Not Started)</li>
@@ -34,7 +44,8 @@ Here’s the current structure:
 
 Each folder includes:
 - **Problem Statements** – Descriptions of the assignments.
-- **Source Code** – The solution for each problem, written in languages like Python, Java, C, etc.
+- **Source Code** – The solution for each problem, written in languages like Python, Java, etc.
+- **README files** - Explaining the purpose and requirements of each project.
 
 ---
 
@@ -99,22 +110,56 @@ Each folder includes:
 
 ## 🛠️ Technologies Used
 
-Throughout this repository, you'll encounter various programming languages and tools, depending on the course and period. Here’s a breakdown of some of the key technologies I’ve used:
+Throughout this repository, you'll encounter various programming languages and tools, depending on the course and period:
 
-- **Languages**: Python, Java, HTML, CSS, JavaScript
-- **Tools**: Git, Visual Studio Code, JetBrains Tools and Eclipse
-- **Libraries/Frameworks**: Maven, Spring, Bootstrap (as needed)
+### Programming Languages
+- **1st-2nd Period**: Python, Portugol (Algorithms), Java basics
+- **3rd-4th Period**: Java (OOP, Spring), SQL
+- **5th Period+**: JavaScript, Advanced Java frameworks, and more
+
+### Development Tools
+- **IDEs**: Visual Studio Code, IntelliJ IDEA, Eclipse
+- **Version Control**: Git, GitHub
+- **Build Tools**: Maven
+- **Databases**: MySQL, PostgreSQL
+
+### Frameworks & Libraries
+- **Web Development**: Spring Boot, Thymeleaf
+- **Testing**: JUnit
+- **UI/UX**: Bootstrap, Material Design
+- **Others**: As needed for specific projects
 
 ---
 
 ## 💡 How to Use This Repository
 
 1. **Clone the Repository**  
-   First, you can clone the repository to your local machine:
+   Clone the repository to your local machine:
    ```bash
    git clone https://github.com/brunoliratm/Homeworks-college.git
-2. Browse the Folders
-Open the folder corresponding to the period you're interested in, and explore the assignments or exercises in that period.
+   cd Homeworks-college
+   ```
+
+2. **Browse the Folders**  
+   Navigate to the period you're interested in:
+   ```bash
+   cd "1st period"  # Or any other period
+   ```
+
+3. **Run the Code**  
+   - For Python files (.py):
+     ```bash
+     python filename.py
+     ```
+   - For Java files (.java):
+     ```bash
+     javac filename.java
+     java classname
+     ```
+   - For projects with specific instructions, refer to their individual README files.
+
+4. **Learn and Explore**  
+   - Modify the code to see how it affects the output
 
 ---
 
@@ -122,12 +167,7 @@ Open the folder corresponding to the period you're interested in, and explore th
 - 🌱 Continue adding more schoolwork for the upcoming periods.
 - 💡 Improve the structure and readability of the repository.
 - 🚀 Add more detailed explanations and potentially video tutorials to accompany some exercises.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new content, feel free to open an issue or submit a pull request. Please ensure that your contributions align with the goals of this repository and follow the existing structure.
+- 📱 Implement more diverse projects covering web, mobile, and desktop applications.
 
 ---
 
